@@ -1,5 +1,9 @@
 # ExamScope
+## Project Demo
 
+A short demonstration of ExamScope, showcasing PDF upload, question-paper analysis, generated insights, and AI-powered chatbot interaction.
+
+[Watch ExamScope Demo](https://youtu.be/pD2Q_5V9_2Q)
 ### Analyse Exam Papers. Discover Patterns. Prepare Smarter.
 
 ExamScope is an AI-powered PDF-to-insights platform that helps students explore previous examination papers. It extracts text from digitally readable PDFs, organizes related questions using semantic embeddings and clustering, and provides an AI-assisted chat interface for exploring the uploaded material.
