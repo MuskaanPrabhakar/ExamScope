@@ -1,6 +1,6 @@
 # ExamScope
 
-## Project Demo
+### Project Demo
 A short demonstration of ExamScope, showcasing PDF upload, question-paper analysis, generated insights, and AI-powered chatbot interaction.
 [Watch ExamScope Demo](https://youtu.be/pD2Q_5V9_2Q)
 
